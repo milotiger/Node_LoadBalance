@@ -1,0 +1,19 @@
+{
+  "name": "node_test_load_balance",
+  "version": "1.0.0",
+  "description": "this is a demo for loading balancing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milotiger/Node_LoadBalance.git"
+  },
+  "author": "Tri Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milotiger/Node_LoadBalance/issues"
+  },
+  "homepage": "https://github.com/milotiger/Node_LoadBalance#readme"
+}
